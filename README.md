@@ -2,9 +2,9 @@
 
 In this project I have implemented Asset Tokenization which is the process by which an issuer creates digital tokens on a distributed ledger or blockchain, which represent either digital or physical assets.
 
-This can be implemented in real world bussineses for tokenizing(creating token) for different real-world assets
-It can be used to form  Payment layer over Ethereum
-As Autonomous Entry Syste and many more apllications
+- This can be implemented in real world bussineses for tokenizing(creating token) for different real-world assets
+- It can be used to form  Payment layer over Ethereum
+- As Autonomous Entry Syste and many more apllications
 
 
 # Getting Started with Create React App
